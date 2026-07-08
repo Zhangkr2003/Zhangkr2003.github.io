@@ -33,8 +33,8 @@ I contribute to the maintenance of [Awesome-Streaming-Video-Understanding](https
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.02*: 🎉 Our paper "QueryStream: Advancing Streaming Video Understanding with Query-Aware Pruning and Proactive Response" has been accepted to ICLR 2026.
-- *2025.09*: 🎉 Our paper "LiveStar: Live Streaming Assistant for Real-World Online Video Understanding" has been accepted to NeurIPS 2025.
+- *2026.02*: 🎉 Our paper "[QueryStream: Advancing Streaming Video Understanding with Query-Aware Pruning and Proactive Response](https://openreview.net/forum?id=738HjJEbml)" has been accepted to ICLR 2026.
+- *2025.09*: 🎉 Our paper "[LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](https://arxiv.org/abs/2511.05299)" has been accepted to NeurIPS 2025.
 
 <span class='anchor' id='publications'></span>
 
@@ -43,26 +43,26 @@ I contribute to the maintenance of [Awesome-Streaming-Video-Understanding](https
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/QueryStream.png' alt="QueryStream thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<span class="paper-venue">🔥 <strong>[ICLR'2026] Poster</strong></span>
+
 [QueryStream: Advancing Streaming Video Understanding with Query-Aware Pruning and Proactive Response](https://openreview.net/forum?id=738HjJEbml)
 
 **Kairui Zhang**, Zhenyu Yang, Bing Wang, Shengsheng Qian, Changsheng Xu
 
-[**Paper**](https://openreview.net/forum?id=738HjJEbml) | [**Code**](https://github.com/Zhangkr2003/QueryStream)
-
-Poster, ICLR 2026.
+[[Paper]](https://openreview.net/forum?id=738HjJEbml) [[Code]](https://github.com/Zhangkr2003/QueryStream)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/LiveStar.png' alt="LiveStar thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<span class="paper-venue">🔥 <strong>[NeurIPS'2025] Poster</strong></span>
+
 [LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](https://arxiv.org/abs/2511.05299)
 
 Zhenyu Yang, **Kairui Zhang**, Yuhang Hu, Bing Wang, Shengsheng Qian, Bin Wen, Fan Yang, Tingting Gao, Weiming Dong, Changsheng Xu
 
-[**Paper**](https://arxiv.org/abs/2511.05299) | [**Code**](https://github.com/sotayang/LiveStar)
-
-Poster, NeurIPS 2025.
+[[Code]](https://github.com/sotayang/LiveStar) [[Paper]](https://arxiv.org/abs/2511.05299)
 </div>
 </div>
 
