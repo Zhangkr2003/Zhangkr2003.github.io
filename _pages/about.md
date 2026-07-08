@@ -17,20 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👀 About Me
+
 I am **Kairui Zhang** (张凯瑞), a jointly supervised M.S. student admitted in 2025 at [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (SIST) and the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/). I am advised by Prof. Changsheng Xu.
 
 My research interests lie in video understanding and multimodal large language models, with a current focus on streaming video understanding and world models. Previously, I received my Bachelor's degree from Shanghai University in 2025.
 
 Please feel free to contact me by email if you are interested in research collaboration or related academic discussions.
 
-# Survey and Awesome List 📚
+<span class='anchor' id='survey-awesome'></span>
+
+# 📚 Survey and Awesome List
 I contribute to the maintenance of [Awesome-Streaming-Video-Understanding](https://github.com/sotayang/Awesome-Streaming-Video-Understanding), a curated and continuously updated list of papers, models, datasets, and resources for streaming video understanding. We also wrote a survey, [Towards Online Interactors: A Comprehensive Survey on Streaming Video Understanding](https://sotayang.github.io/Streaming_Video_Understanding_Survey.pdf), which provides a comprehensive review of recent progress in this area. Feel free to check them out, and give us a ⭐ if you find them useful!
 
-# News
+<span class='anchor' id='news'></span>
+
+# 🔥 News
 - *2026.02*: 🎉 Our paper "QueryStream: Advancing Streaming Video Understanding with Query-Aware Pruning and Proactive Response" has been accepted to ICLR 2026.
 - *2025.09*: 🎉 Our paper "LiveStar: Live Streaming Assistant for Real-World Online Video Understanding" has been accepted to NeurIPS 2025.
 
-# Publications
+<span class='anchor' id='publications'></span>
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/QueryStream.png' alt="QueryStream thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,14 +66,20 @@ Poster, NeurIPS 2025.
 </div>
 </div>
 
-# Honors and Awards
+<span class='anchor' id='honors-and-awards'></span>
+
+# 🏆 Honors and Awards
 - *2025*: Outstanding Graduate, Shanghai University.
 - *2024*: First Prize, Chinese Collegiate Computing Competition.
 - *2024*: Meritorious Winner, Interdisciplinary Contest in Modeling.
 
-# Education
+<span class='anchor' id='education'></span>
+
+# 🎓 Education
 - *2025.09 - Present*, Jointly supervised M.S. student, School of Information Science and Technology, ShanghaiTech University / Institute of Automation, Chinese Academy of Sciences.
 - *2021.09 - 2025.06*, Bachelor's degree, School of Computer Engineering and Science, Shanghai University.
 
-# Hobbies
+<span class='anchor' id='hobbies'></span>
+
+# 🎮 Hobbies
 - Outside of research, I enjoy relaxing with video games 🎮 and practicing close-up magic, especially card magic 🃏.
