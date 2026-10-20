@@ -16,15 +16,11 @@ This personal academic homepage is based on the [AcadHomepage](https://github.co
 3. Commit and push to the `main` branch.
 4. Open `https://Zhangkr2003.github.io` after GitHub Pages finishes building.
 
-## Optional Google Scholar Citation Stats
+## Google Scholar Citation Stats
 
-The Google Scholar profile ID is already set to `woe63wsAAAAJ`.
+Automatic citation fetching is disabled: the `Get Citation Data` workflow has been removed, and the homepage no longer requests citation data. The Google Scholar profile link remains available.
 
-To enable automatic citation stats:
-
-1. In GitHub, go to `Settings -> Secrets and variables -> Actions -> New repository secret`.
-2. Add `GOOGLE_SCHOLAR_ID` with value `woe63wsAAAAJ`.
-3. Enable GitHub Actions for the repository.
+The crawler and citation display source files are retained for possible future use. Removing the workflow takes effect on GitHub after these changes are pushed to the default branch.
 
 ## Local Preview
 

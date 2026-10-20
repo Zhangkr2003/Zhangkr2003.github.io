@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 # 👀 About Me
@@ -33,6 +26,7 @@ I contribute to the maintenance of [Awesome-Streaming-Video-Understanding](https
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.07*: 🎉 Our paper "RSV: A Training-Free Verification Framework for Proactive and Efficient Online Video Understanding" has been accepted to ACM MM 2026.
 - *2026.02*: 🎉 Our paper "[QueryStream: Advancing Streaming Video Understanding with Query-Aware Pruning and Proactive Response](https://openreview.net/forum?id=738HjJEbml)" has been accepted to ICLR 2026.
 - *2025.09*: 🎉 Our paper "[LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](https://arxiv.org/abs/2511.05299)" has been accepted to NeurIPS 2025.
 
@@ -62,7 +56,7 @@ I contribute to the maintenance of [Awesome-Streaming-Video-Understanding](https
 
 Zhenyu Yang, **Kairui Zhang**, Yuhang Hu, Bing Wang, Shengsheng Qian, Bin Wen, Fan Yang, Tingting Gao, Weiming Dong, Changsheng Xu
 
-[[Code]](https://github.com/sotayang/LiveStar) [[Paper]](https://arxiv.org/abs/2511.05299)
+[[Paper]](https://arxiv.org/abs/2511.05299) [[Code]](https://github.com/sotayang/LiveStar)
 </div>
 </div>
 
