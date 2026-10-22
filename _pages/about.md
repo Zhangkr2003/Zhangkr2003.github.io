@@ -12,11 +12,11 @@ redirect_from:
 
 # 👀 About Me
 
-I am **Kairui Zhang** (张凯瑞), a jointly supervised M.S. student admitted in 2025 at [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (SIST) and the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/). I am advised by Prof. Changsheng Xu.
+I am **Kairui Zhang** (张凯瑞), a joint M.S. student (2025–present) at the School of Information Science and Technology (SIST), [ShanghaiTech University](https://www.shanghaitech.edu.cn/en/), and the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), advised by [Prof. Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ). Previously, I received my bachelor's degree from Shanghai University in 2025.
 
-My research interests lie in video understanding and multimodal large language models, with a current focus on streaming video understanding and world models. Previously, I received my Bachelor's degree from Shanghai University in 2025.
+My research interests lie in **video understanding** and **multimodal large language models**, with a particular focus on **streaming video understanding** and **omni-modal full-duplex interaction models**.
 
-Please feel free to contact me by email if you are interested in research collaboration or related academic discussions.
+Feel free to reach out via email for potential research collaborations or academic discussions.
 
 <span class='anchor' id='survey-awesome'></span>
 
@@ -33,6 +33,19 @@ I contribute to the maintenance of [Awesome-Streaming-Video-Understanding](https
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/RSV.png' alt="RSV framework overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="paper-venue">🔥 <strong>[ACM MM'2026] Poster</strong></span>
+
+**RSV: A Training-Free Verification Framework for Proactive and Efficient Online Video Understanding**
+
+**Kairui Zhang**, Zhenyu Yang, Bing Wang, Yang Yang, Kaiquan Cai, Shengsheng Qian
+
+\[Paper\]\[Code\](Coming soon)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/QueryStream.png' alt="QueryStream thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
